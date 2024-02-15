@@ -1,6 +1,7 @@
-#### Hi there 👋
 
 # :man_technologist: Inquisitive Python Developer.
+
+#### Hi there 👋
 
 - 🔭 I’m currently working on **Data Science** 
 - 🏃‍♂️	I’m looking to collaborate in the fild of **A.I** & **Data science**
